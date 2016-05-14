@@ -9,16 +9,16 @@ import org.bukkit.ChatColor;
 
 public class FrostSilentJoin extends JavaPlugin {
 
-	
+
 	public void onEnable() {
 		getServer().getPluginManager().registerEvents(new PlayerListener(),this);
-		this.getServer().getConsoleSender().sendMessage(ChatColor.BLUE + "[FrostSilentJoin] Plugin enabled.");
+		this.getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "[FrostSilentJoin] Plugin enabled.");
 		return;
 			
 	}
 
 	public void onDisable() {
-		this.getServer().getConsoleSender().sendMessage(ChatColor.BLUE + "[FrostSilentJoin] Plugin disabled.");
+		this.getServer().getConsoleSender().sendMessage(ChatColor.AQUA + "[FrostSilentJoin] Plugin disabled.");
 	}
 
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) 
