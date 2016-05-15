@@ -30,13 +30,7 @@ public class FrostSilentJoin extends JavaPlugin {
 		catch (Exception e) {
 			return true;
 		}
-		
-		
-		if (cmd.getName().equalsIgnoreCase("FrostSilentJoin") ) 
-		{	
-			p.sendMessage(ChatColor.DARK_AQUA + "FrostSilentJoin - Silent Join plugin V1.0 - www.frostcraft.com");
-		}
-		
+
 		return true;
 	}	
 	

@@ -2,11 +2,6 @@ name: FrostSilentJoin
 main: frostSilentJoin.FrostSilentJoin
 version: 1.0
 commands:
-  frostsilentjoin:
-    description: frostsilentjoin
-    usage: Use /frostsilentjoin
-    permission: FrostSilentJoin.silentJoin
-    permission-message: FrostSilentJoin - You don't have permission to use this command.   
 permissions:
     FrostSilentJoin.silentJoin:
         description: permission for silent join.
