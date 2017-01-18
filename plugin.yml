@@ -1,8 +1,8 @@
-name: FrostSilentJoin
-main: frostSilentJoin.FrostSilentJoin
+name: SilentJoin
+main: com.frostcraft.silentjoin.SilentJoin
 version: 1.0
 commands:
 permissions:
-    FrostSilentJoin.silentJoin:
+    SilentJoin.silentJoin:
         description: permission for silent join.
         default: op
