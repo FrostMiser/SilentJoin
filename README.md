@@ -11,5 +11,4 @@ Add silentjoin permission to players you would like to hide server join messages
 
 Permissions
 ===========
-silentjoin (default OP) - Hides server join message for that player and allows use of the informational /FrostSilentJoin command.
-
+silentjoin (default OP) - Hides server join message for that player.
