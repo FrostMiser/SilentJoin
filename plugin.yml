@@ -3,6 +3,6 @@ main: com.frostcraft.silentjoin.SilentJoin
 version: 1.0
 commands:
 permissions:
-    SilentJoin.silentJoin:
+    silentjoin:
         description: permission for silent join.
         default: op

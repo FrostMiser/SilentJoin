@@ -6,10 +6,10 @@ This is a Minecraft Bukkit plugin which hides the server join messages for playe
 
 Instructions
 ===========
-Add FrostSilentJoin.silentJoin permission to players you would like to hide server join messages for.
+Add silentjoin permission to players you would like to hide server join messages for.
 
 
 Permissions
 ===========
-FrostSilentJoin.silentJoin (default OP) - Hides server join message for that player and allows use of the informational /FrostSilentJoin command.
+silentjoin (default OP) - Hides server join message for that player and allows use of the informational /FrostSilentJoin command.
 
