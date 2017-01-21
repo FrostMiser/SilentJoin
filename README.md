@@ -8,7 +8,6 @@ Instructions
 ===========
 Add silentjoin permission to players you would like to hide server join messages for.
 
-
 Permissions
 ===========
 silentjoin (default OP) - Hides server join message for that player.
