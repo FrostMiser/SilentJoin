@@ -3,7 +3,6 @@ package com.frostcraft.silentjoin;
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.ChatColor;
 
-
 public class SilentJoin extends JavaPlugin {
 
 	public void onEnable() {
