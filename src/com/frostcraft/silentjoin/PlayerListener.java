@@ -12,11 +12,11 @@ public class PlayerListener implements Listener {
 			event.setJoinMessage(null);
 		}
 	}
+
 	@EventHandler
 	public void onPlayerQuit(PlayerQuitEvent event) {
 		if (event.getPlayer().hasPermission("silentjoin.quit")) {
 			event.setQuitMessage(null);
 		}
 	}
-	
 }
